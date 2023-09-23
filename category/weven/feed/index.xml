@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Weven Archieven - Joke van den Broek</title>
-	<atom:link href="/category/weven/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./category/weven/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/weven/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Apr 2021 18:10:17 +0000</lastBuildDate>
@@ -36,7 +36,7 @@
 				<category><![CDATA[Weven]]></category>
 		<guid isPermaLink="false">/?p=123</guid>
 
-					<description><![CDATA[<p>Het bericht <a rel="nofollow" href="/weven/10/">weven</a> verscheen eerst op <a rel="nofollow" href="/">Joke van den Broek</a>.</p>
+					<description><![CDATA[<p>Het bericht <a rel="nofollow" href="./weven/10/">weven</a> verscheen eerst op <a rel="nofollow" href="./">Joke van den Broek</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <a href='./wp-content/uploads/2021/04/IMG_4509-scaled.jpg'><img width="236" height="314" src="./wp-content/uploads/2021/04/IMG_4509-236x314.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="./wp-content/uploads/2021/04/IMG_4509-236x314.jpg 236w, ./wp-content/uploads/2021/04/IMG_4509-225x300.jpg 225w, ./wp-content/uploads/2021/04/IMG_4509-768x1024.jpg 768w, ./wp-content/uploads/2021/04/IMG_4509-1152x1536.jpg 1152w, ./wp-content/uploads/2021/04/IMG_4509-1536x2048.jpg 1536w, ./wp-content/uploads/2021/04/IMG_4509-480x640.jpg 480w, ./wp-content/uploads/2021/04/IMG_4509-scaled.jpg 1920w" sizes="(max-width: 236px) 100vw, 236px" /></a>
@@ -97,7 +97,7 @@
 <a href='./wp-content/uploads/2021/04/wol-dik-dun-geweven-en-vervilt-scaled.jpg'><img width="236" height="314" src="./wp-content/uploads/2021/04/wol-dik-dun-geweven-en-vervilt-236x314.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="./wp-content/uploads/2021/04/wol-dik-dun-geweven-en-vervilt-236x314.jpg 236w, ./wp-content/uploads/2021/04/wol-dik-dun-geweven-en-vervilt-480x640.jpg 480w" sizes="(max-width: 236px) 100vw, 236px" /></a>
 <a href='./wp-content/uploads/2017/12/IMG_0214.jpg'><img width="236" height="314" src="./wp-content/uploads/2017/12/IMG_0214-236x314.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="./wp-content/uploads/2017/12/IMG_0214-236x314.jpg 236w, ./wp-content/uploads/2017/12/IMG_0214-480x640.jpg 480w" sizes="(max-width: 236px) 100vw, 236px" /></a>
 
-<p>Het bericht <a rel="nofollow" href="/weven/10/">weven</a> verscheen eerst op <a rel="nofollow" href="/">Joke van den Broek</a>.</p>
+<p>Het bericht <a rel="nofollow" href="./weven/10/">weven</a> verscheen eerst op <a rel="nofollow" href="./">Joke van den Broek</a>.</p>
 ]]></content:encoded>
 					
 		

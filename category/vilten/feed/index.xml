@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Vilten Archieven - Joke van den Broek</title>
-	<atom:link href="/category/vilten/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./category/vilten/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/vilten/</link>
 	<description></description>
 	<lastBuildDate>Sun, 18 Apr 2021 18:02:28 +0000</lastBuildDate>
@@ -36,7 +36,7 @@
 				<category><![CDATA[Vilten]]></category>
 		<guid isPermaLink="false">/?p=125</guid>
 
-					<description><![CDATA[<p>Het bericht <a rel="nofollow" href="/vilten/11/">vilten</a> verscheen eerst op <a rel="nofollow" href="/">Joke van den Broek</a>.</p>
+					<description><![CDATA[<p>Het bericht <a rel="nofollow" href="./vilten/11/">vilten</a> verscheen eerst op <a rel="nofollow" href="./">Joke van den Broek</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <a href='./wp-content/uploads/2021/04/IMG_0303-scaled.jpg'><img width="236" height="314" src="./wp-content/uploads/2021/04/IMG_0303-236x314.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="./wp-content/uploads/2021/04/IMG_0303-236x314.jpg 236w, ./wp-content/uploads/2021/04/IMG_0303-480x640.jpg 480w" sizes="(max-width: 236px) 100vw, 236px" /></a>
@@ -130,7 +130,7 @@
 <a href='./wp-content/uploads/2017/12/IMG_3728.jpg'><img width="236" height="314" src="./wp-content/uploads/2017/12/IMG_3728-236x314.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="./wp-content/uploads/2017/12/IMG_3728-236x314.jpg 236w, ./wp-content/uploads/2017/12/IMG_3728-480x640.jpg 480w" sizes="(max-width: 236px) 100vw, 236px" /></a>
 <a href='./wp-content/uploads/2017/12/IMG_1518.jpg'><img width="236" height="314" src="./wp-content/uploads/2017/12/IMG_1518-236x314.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="./wp-content/uploads/2017/12/IMG_1518-236x314.jpg 236w, ./wp-content/uploads/2017/12/IMG_1518-480x640.jpg 480w" sizes="(max-width: 236px) 100vw, 236px" /></a>
 
-<p>Het bericht <a rel="nofollow" href="/vilten/11/">vilten</a> verscheen eerst op <a rel="nofollow" href="/">Joke van den Broek</a>.</p>
+<p>Het bericht <a rel="nofollow" href="./vilten/11/">vilten</a> verscheen eerst op <a rel="nofollow" href="./">Joke van den Broek</a>.</p>
 ]]></content:encoded>
 					
 		
